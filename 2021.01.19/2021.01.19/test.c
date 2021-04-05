@@ -1,0 +1,10 @@
+
+#pragma warning(disable:4996) 
+#include<stdio.h>
+int main()
+{
+	int a = 0;
+	scanf("%d", &a);
+	printf("%d", a);
+	return 0;
+}
