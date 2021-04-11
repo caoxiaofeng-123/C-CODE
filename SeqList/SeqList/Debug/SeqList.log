@@ -1,0 +1,15 @@
+﻿生成启动时间为 2021/4/4 15:16:32。
+     1>项目“D:\2021年代码\比特班\SeqList\SeqList\SeqList.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>d:\2021年代码\比特班\seqlist\seqlist\seqlist.h(13): error C2054: 在“j”之后应输入“(”
+     1>d:\2021年代码\比特班\seqlist\seqlist\seqlist.h(13): error C2085: “SeDataType”: 不在形参表中
+     1>d:\2021年代码\比特班\seqlist\seqlist\seqlist.h(15): error C2011: “SeqList”:“struct”类型重定义
+                 d:\2021年代码\比特班\seqlist\seqlist\seqlist.h(6) : 参见“SeqList”的声明
+     1>d:\2021年代码\比特班\seqlist\seqlist\seqlist.h(19): error C2059: 语法错误:“;”
+     1>已完成生成项目“D:\2021年代码\比特班\SeqList\SeqList\SeqList.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.50
